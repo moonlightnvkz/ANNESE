@@ -1,0 +1,6 @@
+[submodule "lib/googletest"]
+	path = lib/googletest
+	url = git@github.com:google/googletest.git
+[submodule "lib/cpptoml"]
+	path = lib/cpptoml
+	url = git@github.com:skystrife/cpptoml.git

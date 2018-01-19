@@ -1,0 +1,20 @@
+[application]
+	scale = 2.00000
+["player 1"]
+	a = "T"
+	b = "Y"
+	down = "S"
+	left = "A"
+	right = "D"
+	select = "E"
+	start = "R"
+	up = "W"
+["player 2"]
+	a = "LBracket"
+	b = "RBracket"
+	down = "K"
+	left = "J"
+	right = "L"
+	select = "O"
+	start = "P"
+	up = "I"
